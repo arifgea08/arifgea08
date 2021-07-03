@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifgea08
+- 👋 Hi, I’m Arifin Gea
 - 👀 I’m interested in Electrical and web/mobile programming
 - 🌱 I’m currently learning php especialy Laravel framework
 
